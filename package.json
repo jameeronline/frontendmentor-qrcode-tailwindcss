@@ -1,5 +1,23 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.1.4"
-  }
+  },
+  "name": "frontendmentor-qrcode-tailwindcss",
+  "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameeronline/frontendmentor-qrcode-tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameeronline/frontendmentor-qrcode-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/jameeronline/frontendmentor-qrcode-tailwindcss#readme"
 }
